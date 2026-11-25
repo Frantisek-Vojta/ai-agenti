@@ -3,3 +3,7 @@
 Školní projekt: napojení AI agentů (Claude Code, v0 by Vercel, Replit Agent) na GitHub repozitář.
 
 Návod se screenshoty a zdroji: [navod/navod.pdf](navod/navod.pdf).
+
+## hello.py
+
+Ukázkový skript vytvořený agentem Claude Code. Spuštění: `python3 hello.py` vypíše `Ahoj z Claude Code`.
