@@ -1,8 +1,8 @@
 # ai-agenti
 
-Školní projekt: napojení AI agentů (Claude Code, GitHub Copilot, Google Jules) na GitHub repozitář.
+Školní projekt: napojení AI agentů (Claude Code, v0 by Vercel, Replit Agent) na GitHub repozitář.
 
-Návod je ve složce [navod](navod/) (`navod.pdf`).
+Návod se screenshoty a zdroji: [navod/navod.pdf](navod/navod.pdf).
 
 ## hello.py
 
